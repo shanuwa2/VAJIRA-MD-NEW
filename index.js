@@ -10,8 +10,8 @@
 ░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
 
 
-* Project name - VAJIRA- MD 
-* Author - Vajira Rathnayaka
+* Project name - shanuwa- MD 
+* Author - shanu Rajapaksha
 * Team - Technical Cybers 
 * Version - V6
 
